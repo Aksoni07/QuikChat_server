@@ -1,4 +1,4 @@
-# Social Media API
+# Social Media API for QiikCaht App
 
 > Backend API for a Social Media application.
 
@@ -19,9 +19,5 @@ npm install
 nodemon server.js
 ```
 
-- Version: 1.0.0
-- License: MIT
 
-## Author
 
-Yash Pratap Singh
