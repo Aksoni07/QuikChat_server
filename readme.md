@@ -1,4 +1,4 @@
-# Social Media API for QiikCaht App
+# Social Media API for QuikCaht App
 
 > Backend API for a Social Media application.
 
@@ -18,6 +18,8 @@ npm install
 # Run with
 nodemon server.js
 ```
+
+#-------------------------------
 
 
 
